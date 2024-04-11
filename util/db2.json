@@ -1,0 +1,77 @@
+{
+  "apikey": "maSWhyC21kihMTE9dIL-Ip8i5WieCrYxOF4I5NdGebBd",
+  "connection": {
+    "cli": {
+      "arguments": [
+        [
+          "-u",
+          "acf41fc2",
+          "-p",
+          "rB4N43cZNj3Rq46c",
+          "--ssl",
+          "--sslCAFile",
+          "f915083f-7913-4a37-b38e-f873557d135d",
+          "--authenticationDatabase",
+          "admin",
+          "--host",
+          "e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud:30572"
+        ]
+      ],
+      "bin": "db2",
+      "certificate": {
+        "certificate_base64": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURIVENDQWdXZ0F3SUJBZ0lVYlFYMVdiamFtUDVTRURUVmsxcFpMK3ZLc2g4d0RRWUpLb1pJaHZjTkFRRUwKQlFBd0hqRWNNQm9HQTFVRUF3d1RTVUpOSUVOc2IzVmtJRVJoZEdGaVlYTmxjekFlRncweU1EQTRNRFF3TXpFeApNelphRncwek1EQTRNREl3TXpFeE16WmFNQjR4SERBYUJnTlZCQU1NRTBsQ1RTQkRiRzkxWkNCRVlYUmhZbUZ6ClpYTXdnZ0VpTUEwR0NTcUdTSWIzRFFFQkFRVUFBNElCRHdBd2dnRUtBb0lCQVFER0l5TU1iczEyNkcyWFBiQW0KM294STlLbDNxUk1yWldYVHJnSE00b3ZpTng4VDRqalVFVnF5TjZvcjMxZUxTZitZK0NrTkExUkZhRXEvRHVkMwpDTnBoK213dU95ZnBDRHVoaU1KZDlpdzhmUkM3LzBYQ2lwVUJ2VEZFOEV5SzlPTXNUN29ES0Nub0RsU1JJQ2t5CnhZK01SUEZ2SFlVWExoQXMwbzdaSE4zU09JeFBtVDkvQ0l2cUc4dnBndjdZMkpwbXlyYUJHTWdKMXBZRHZsdjMKR0lCaHJOazhFdHp6N1kzRGduRjZZRmpOdW1tU1ZCTmsvK3pWT2k0L3VhRU1ja2JMaThJc3RoWE9ZRUh2WTFiQQpadFo1b3JpWm5KNmhrYUs4dGtqQW9JNk9zaVUvSmR6MlA2TWZMbmgzcXJQUW1qYmRPdWZOWGRQcFk1N05vVG1VCjN5UXhBZ01CQUFHalV6QlJNQjBHQTFVZERnUVdCQlRiS1d4c0xUU2haUVF0NjI2YXVWV1hvcksvYVRBZkJnTlYKSFNNRUdEQVdnQlRiS1d4c0xUU2haUVF0NjI2YXVWV1hvcksvYVRBUEJnTlZIUk1CQWY4RUJUQURBUUgvTUEwRwpDU3FHU0liM0RRRUJDd1VBQTRJQkFRQkdrRE9XVmhJTFArc29KVGFrcXBIMmRncDkrQ2JCNjFycTVKRFp0c1djCjg0VUZtSlRXKzdBRklUNDBvVlNobWJBdWtuSU1DMFBra1M5QjZ6MWFMMHBtUzVVTDlTeDVRYk1Tc0hlTkN4Tk0KRlJtSlFHd3ZSdHNVNkZxZnZSbTFYazFsV2ZVZW16S29TQkFLOGlCQTVBREJmekhUbHRrK29qNklQYzhSdFd3WgpObi9KM3ZJaDNSd2V2aG00ZHgxR3RKR2FQT0N1aGZybTNKLzdSeTRsM1A4Um1ZSzRtMi9UcUpBUDJPK1B0ZkZUClBxVStMRi9yRWludlUvRDkxK0wzTExqQWg4ZlFQcVBYTHo2WFNxdWdPQmtzQWNtaDhJTEFzQ3VRU1hIbWREQWgKNkJYcEp5bS9acEpvdjF5THM1NHRIdzgwd2hRcDI1L1ZGVzgzckM2ZFFTZ0EKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=",
+        "name": "f915083f-7913-4a37-b38e-f873557d135d"
+      },
+      "composed": [
+        "db2 -u acf41fc2 -p rB4N43cZNj3Rq46c --ssl --sslCAFile f915083f-7913-4a37-b38e-f873557d135d --authenticationDatabase admin --host e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud:30572"
+      ],
+      "environment": {},
+      "type": "cli"
+    },
+    "db2": {
+      "authentication": {
+        "method": "direct",
+        "password": "rB4N43cZNj3Rq46c",
+        "username": "acf41fc2"
+      },
+      "certificate": {
+        "certificate_base64": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURIVENDQWdXZ0F3SUJBZ0lVYlFYMVdiamFtUDVTRURUVmsxcFpMK3ZLc2g4d0RRWUpLb1pJaHZjTkFRRUwKQlFBd0hqRWNNQm9HQTFVRUF3d1RTVUpOSUVOc2IzVmtJRVJoZEdGaVlYTmxjekFlRncweU1EQTRNRFF3TXpFeApNelphRncwek1EQTRNREl3TXpFeE16WmFNQjR4SERBYUJnTlZCQU1NRTBsQ1RTQkRiRzkxWkNCRVlYUmhZbUZ6ClpYTXdnZ0VpTUEwR0NTcUdTSWIzRFFFQkFRVUFBNElCRHdBd2dnRUtBb0lCQVFER0l5TU1iczEyNkcyWFBiQW0KM294STlLbDNxUk1yWldYVHJnSE00b3ZpTng4VDRqalVFVnF5TjZvcjMxZUxTZitZK0NrTkExUkZhRXEvRHVkMwpDTnBoK213dU95ZnBDRHVoaU1KZDlpdzhmUkM3LzBYQ2lwVUJ2VEZFOEV5SzlPTXNUN29ES0Nub0RsU1JJQ2t5CnhZK01SUEZ2SFlVWExoQXMwbzdaSE4zU09JeFBtVDkvQ0l2cUc4dnBndjdZMkpwbXlyYUJHTWdKMXBZRHZsdjMKR0lCaHJOazhFdHp6N1kzRGduRjZZRmpOdW1tU1ZCTmsvK3pWT2k0L3VhRU1ja2JMaThJc3RoWE9ZRUh2WTFiQQpadFo1b3JpWm5KNmhrYUs4dGtqQW9JNk9zaVUvSmR6MlA2TWZMbmgzcXJQUW1qYmRPdWZOWGRQcFk1N05vVG1VCjN5UXhBZ01CQUFHalV6QlJNQjBHQTFVZERnUVdCQlRiS1d4c0xUU2haUVF0NjI2YXVWV1hvcksvYVRBZkJnTlYKSFNNRUdEQVdnQlRiS1d4c0xUU2haUVF0NjI2YXVWV1hvcksvYVRBUEJnTlZIUk1CQWY4RUJUQURBUUgvTUEwRwpDU3FHU0liM0RRRUJDd1VBQTRJQkFRQkdrRE9XVmhJTFArc29KVGFrcXBIMmRncDkrQ2JCNjFycTVKRFp0c1djCjg0VUZtSlRXKzdBRklUNDBvVlNobWJBdWtuSU1DMFBra1M5QjZ6MWFMMHBtUzVVTDlTeDVRYk1Tc0hlTkN4Tk0KRlJtSlFHd3ZSdHNVNkZxZnZSbTFYazFsV2ZVZW16S29TQkFLOGlCQTVBREJmekhUbHRrK29qNklQYzhSdFd3WgpObi9KM3ZJaDNSd2V2aG00ZHgxR3RKR2FQT0N1aGZybTNKLzdSeTRsM1A4Um1ZSzRtMi9UcUpBUDJPK1B0ZkZUClBxVStMRi9yRWludlUvRDkxK0wzTExqQWg4ZlFQcVBYTHo2WFNxdWdPQmtzQWNtaDhJTEFzQ3VRU1hIbWREQWgKNkJYcEp5bS9acEpvdjF5THM1NHRIdzgwd2hRcDI1L1ZGVzgzckM2ZFFTZ0EKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=",
+        "name": "f915083f-7913-4a37-b38e-f873557d135d"
+      },
+      "composed": [
+        "db2://acf41fc2:rB4N43cZNj3Rq46c@e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud:30572/bludb?authSource=admin&replicaSet=replset"
+      ],
+      "database": "bludb",
+      "host_ros": [
+        "e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud:31961"
+      ],
+      "hosts": [
+        {
+          "hostname": "e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud",
+          "port": 30572
+        }
+      ],
+      "jdbc_url": [
+        "jdbc:db2://e8232010-d325-4537-98fc-42440933638e.bs2ipr8s07b7bgm1ta80.databases.appdomain.cloud:30572/bludb:user=<userid>;password=<your_password>;sslConnection=true;"
+      ],
+      "path": "/bludb",
+      "query_options": {
+        "authSource": "admin",
+        "replicaSet": "replset"
+      },
+      "replica_set": "replset",
+      "scheme": "db2",
+      "type": "uri"
+    }
+  },
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:dashdb-for-transactions:au-syd:a/bbaca99ced9241ba914c37ee0253a08e:e8232010-d325-4537-98fc-42440933638e:resource-key:acf41fc2-8f24-4a35-b26d-a6b6db7b645a",
+  "iam_apikey_id": "ApiKey-506509c1-348f-41c6-87ed-7e26d6337d13",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/bbaca99ced9241ba914c37ee0253a08e::serviceid:ServiceId-b40caf97-cc12-4abb-91de-dbeaf4b0afee",
+  "instance_administration_api": {
+    "deployment_id": "crn:v1:bluemix:public:dashdb-for-transactions:au-syd:a/bbaca99ced9241ba914c37ee0253a08e:e8232010-d325-4537-98fc-42440933638e::",
+    "instance_id": "crn:v1:bluemix:public:dashdb-for-transactions:au-syd:a/bbaca99ced9241ba914c37ee0253a08e:e8232010-d325-4537-98fc-42440933638e::",
+    "root": "https://apiausyd.db2.cloud.ibm.com/v5/ibm"
+  }
+}
